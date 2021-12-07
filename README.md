@@ -3,7 +3,7 @@
 
 ```r
 x = 1
-y = "Learning R together"
+y = "Learning python together"
 print (X)
 ```
 
