@@ -1,7 +1,7 @@
 # coding_session_KL
 ## Learning Coding Together
 
-```r
+```python
 x = 1
 y = "Learning python together"
 print (X)
